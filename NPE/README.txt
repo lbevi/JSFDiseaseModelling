@@ -1,3 +1,1 @@
-Only run the 'graph.py' files if you want to view the graphs.
-
-The 'n-patch model....py' files compute the 100 simulations on 100 cores and may freeze your PC! Only run this on a supercomputer!
+The 'main.py' file is used to produce the posterior distribution and save it in 'posterior.pt'. You can reproduce the graphs by running 'graph.py', although a set seed was not set.
